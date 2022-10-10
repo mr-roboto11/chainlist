@@ -906,6 +906,11 @@
         "rpcs": [],
         "rpcWorking": false
     },
+    "1402":{
+        "rpcs": [
+            "https://public.zkevm-test.net:2083"
+        ]
+    }
     "1618": {
         "rpcs": [
             "https://send.catechain.com"
